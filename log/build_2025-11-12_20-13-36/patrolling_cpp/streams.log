@@ -1,0 +1,26 @@
+[0.012s] Invoking command in '/home/isabel/patrolling/build/patrolling_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/isabel/patrolling/build/patrolling_cpp -- -j12 -l12
+[0.053s] [35m[1mConsolidate compiler generated dependencies of target patrolling_node[0m
+[0.071s] [ 50%] [32mBuilding CXX object CMakeFiles/patrolling_node.dir/src/patrolling_node.cpp.o[0m
+[3.501s] [100%] [32m[1mLinking CXX executable patrolling_node[0m
+[3.693s] [100%] Built target patrolling_node
+[3.706s] Invoked command in '/home/isabel/patrolling/build/patrolling_cpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/isabel/patrolling/build/patrolling_cpp -- -j12 -l12
+[3.717s] Invoking command in '/home/isabel/patrolling/build/patrolling_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/isabel/patrolling/build/patrolling_cpp
+[3.725s] -- Install configuration: ""
+[3.725s] -- Installing: /home/isabel/patrolling/install/patrolling_cpp/lib/patrolling_cpp/patrolling_node
+[3.726s] -- Set runtime path of "/home/isabel/patrolling/install/patrolling_cpp/lib/patrolling_cpp/patrolling_node" to ""
+[3.726s] -- Up-to-date: /home/isabel/patrolling/install/patrolling_cpp/share/ament_index/resource_index/package_run_dependencies/patrolling_cpp
+[3.727s] -- Up-to-date: /home/isabel/patrolling/install/patrolling_cpp/share/ament_index/resource_index/parent_prefix_path/patrolling_cpp
+[3.727s] -- Up-to-date: /home/isabel/patrolling/install/patrolling_cpp/share/patrolling_cpp/environment/ament_prefix_path.sh
+[3.727s] -- Up-to-date: /home/isabel/patrolling/install/patrolling_cpp/share/patrolling_cpp/environment/ament_prefix_path.dsv
+[3.727s] -- Up-to-date: /home/isabel/patrolling/install/patrolling_cpp/share/patrolling_cpp/environment/path.sh
+[3.727s] -- Up-to-date: /home/isabel/patrolling/install/patrolling_cpp/share/patrolling_cpp/environment/path.dsv
+[3.727s] -- Up-to-date: /home/isabel/patrolling/install/patrolling_cpp/share/patrolling_cpp/local_setup.bash
+[3.727s] -- Up-to-date: /home/isabel/patrolling/install/patrolling_cpp/share/patrolling_cpp/local_setup.sh
+[3.727s] -- Up-to-date: /home/isabel/patrolling/install/patrolling_cpp/share/patrolling_cpp/local_setup.zsh
+[3.727s] -- Up-to-date: /home/isabel/patrolling/install/patrolling_cpp/share/patrolling_cpp/local_setup.dsv
+[3.727s] -- Installing: /home/isabel/patrolling/install/patrolling_cpp/share/patrolling_cpp/package.dsv
+[3.727s] -- Up-to-date: /home/isabel/patrolling/install/patrolling_cpp/share/ament_index/resource_index/packages/patrolling_cpp
+[3.727s] -- Up-to-date: /home/isabel/patrolling/install/patrolling_cpp/share/patrolling_cpp/cmake/patrolling_cppConfig.cmake
+[3.727s] -- Up-to-date: /home/isabel/patrolling/install/patrolling_cpp/share/patrolling_cpp/cmake/patrolling_cppConfig-version.cmake
+[3.727s] -- Up-to-date: /home/isabel/patrolling/install/patrolling_cpp/share/patrolling_cpp/package.xml
+[3.730s] Invoked command in '/home/isabel/patrolling/build/patrolling_cpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/isabel/patrolling/build/patrolling_cpp

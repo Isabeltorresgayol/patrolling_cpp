@@ -1,0 +1,22 @@
+[35m[1mConsolidate compiler generated dependencies of target patrolling_node[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/patrolling_node.dir/src/patrolling_node.cpp.o[0m
+[100%] [32m[1mLinking CXX executable patrolling_node[0m
+[100%] Built target patrolling_node
+-- Install configuration: ""
+-- Installing: /home/isabel/patrolling/install/patrolling_cpp/lib/patrolling_cpp/patrolling_node
+-- Set runtime path of "/home/isabel/patrolling/install/patrolling_cpp/lib/patrolling_cpp/patrolling_node" to ""
+-- Up-to-date: /home/isabel/patrolling/install/patrolling_cpp/share/ament_index/resource_index/package_run_dependencies/patrolling_cpp
+-- Up-to-date: /home/isabel/patrolling/install/patrolling_cpp/share/ament_index/resource_index/parent_prefix_path/patrolling_cpp
+-- Up-to-date: /home/isabel/patrolling/install/patrolling_cpp/share/patrolling_cpp/environment/ament_prefix_path.sh
+-- Up-to-date: /home/isabel/patrolling/install/patrolling_cpp/share/patrolling_cpp/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/isabel/patrolling/install/patrolling_cpp/share/patrolling_cpp/environment/path.sh
+-- Up-to-date: /home/isabel/patrolling/install/patrolling_cpp/share/patrolling_cpp/environment/path.dsv
+-- Up-to-date: /home/isabel/patrolling/install/patrolling_cpp/share/patrolling_cpp/local_setup.bash
+-- Up-to-date: /home/isabel/patrolling/install/patrolling_cpp/share/patrolling_cpp/local_setup.sh
+-- Up-to-date: /home/isabel/patrolling/install/patrolling_cpp/share/patrolling_cpp/local_setup.zsh
+-- Up-to-date: /home/isabel/patrolling/install/patrolling_cpp/share/patrolling_cpp/local_setup.dsv
+-- Installing: /home/isabel/patrolling/install/patrolling_cpp/share/patrolling_cpp/package.dsv
+-- Up-to-date: /home/isabel/patrolling/install/patrolling_cpp/share/ament_index/resource_index/packages/patrolling_cpp
+-- Up-to-date: /home/isabel/patrolling/install/patrolling_cpp/share/patrolling_cpp/cmake/patrolling_cppConfig.cmake
+-- Up-to-date: /home/isabel/patrolling/install/patrolling_cpp/share/patrolling_cpp/cmake/patrolling_cppConfig-version.cmake
+-- Up-to-date: /home/isabel/patrolling/install/patrolling_cpp/share/patrolling_cpp/package.xml

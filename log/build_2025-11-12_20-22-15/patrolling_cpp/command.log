@@ -1,0 +1,4 @@
+Invoking command in '/home/isabel/patrolling/build/patrolling_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/isabel/patrolling/build/patrolling_cpp -- -j12 -l12
+Invoked command in '/home/isabel/patrolling/build/patrolling_cpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/isabel/patrolling/build/patrolling_cpp -- -j12 -l12
+Invoking command in '/home/isabel/patrolling/build/patrolling_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/isabel/patrolling/build/patrolling_cpp
+Invoked command in '/home/isabel/patrolling/build/patrolling_cpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/isabel/patrolling/build/patrolling_cpp
