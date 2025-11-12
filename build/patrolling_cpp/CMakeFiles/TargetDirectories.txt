@@ -1,0 +1,10 @@
+/home/isabel/patrolling/build/patrolling_cpp/CMakeFiles/uninstall.dir
+/home/isabel/patrolling/build/patrolling_cpp/CMakeFiles/patrolling_cpp_uninstall.dir
+/home/isabel/patrolling/build/patrolling_cpp/CMakeFiles/patrolling_node.dir
+/home/isabel/patrolling/build/patrolling_cpp/CMakeFiles/test.dir
+/home/isabel/patrolling/build/patrolling_cpp/CMakeFiles/edit_cache.dir
+/home/isabel/patrolling/build/patrolling_cpp/CMakeFiles/rebuild_cache.dir
+/home/isabel/patrolling/build/patrolling_cpp/CMakeFiles/list_install_components.dir
+/home/isabel/patrolling/build/patrolling_cpp/CMakeFiles/install.dir
+/home/isabel/patrolling/build/patrolling_cpp/CMakeFiles/install/local.dir
+/home/isabel/patrolling/build/patrolling_cpp/CMakeFiles/install/strip.dir

@@ -1,0 +1,61 @@
+[0.012s] Invoking command in '/home/isabel/patrolling/build/patrolling_cpp': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/isabel/patrolling/src/patrolling_cpp -DCMAKE_INSTALL_PREFIX=/home/isabel/patrolling/install/patrolling_cpp
+[0.102s] -- The C compiler identification is GNU 11.4.0
+[0.166s] -- The CXX compiler identification is GNU 11.4.0
+[0.176s] -- Detecting C compiler ABI info
+[0.254s] -- Detecting C compiler ABI info - done
+[0.260s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.261s] -- Detecting C compile features
+[0.261s] -- Detecting C compile features - done
+[0.264s] -- Detecting CXX compiler ABI info
+[0.350s] -- Detecting CXX compiler ABI info - done
+[0.356s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.357s] -- Detecting CXX compile features
+[0.357s] -- Detecting CXX compile features - done
+[0.362s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.499s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.589s] -- Found rclcpp: 16.0.15 (/opt/ros/humble/share/rclcpp/cmake)
+[0.635s] -- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.641s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.650s] -- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.662s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.679s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.724s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.727s] -- Found rmw_fastrtps_cpp: 6.2.8 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.851s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[0.882s] -- Found FastRTPS: /opt/ros/humble/include  
+[0.931s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.941s] -- Looking for pthread.h
+[1.020s] -- Looking for pthread.h - found
+[1.020s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.097s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[1.098s] -- Found Threads: TRUE  
+[1.147s] -- Found geometry_msgs: 4.9.0 (/opt/ros/humble/share/geometry_msgs/cmake)
+[1.214s] -- Configuring done
+[1.222s] -- Generating done
+[1.226s] -- Build files have been written to: /home/isabel/patrolling/build/patrolling_cpp
+[1.238s] Invoked command in '/home/isabel/patrolling/build/patrolling_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/isabel/patrolling/src/patrolling_cpp -DCMAKE_INSTALL_PREFIX=/home/isabel/patrolling/install/patrolling_cpp
+[1.240s] Invoking command in '/home/isabel/patrolling/build/patrolling_cpp': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/isabel/patrolling/build/patrolling_cpp -- -j12 -l12
+[1.290s] [ 50%] [32mBuilding CXX object CMakeFiles/patrolling_node.dir/src/patrolling_node.cpp.o[0m
+[4.708s] [100%] [32m[1mLinking CXX executable patrolling_node[0m
+[4.896s] [100%] Built target patrolling_node
+[4.910s] Invoked command in '/home/isabel/patrolling/build/patrolling_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/isabel/patrolling/build/patrolling_cpp -- -j12 -l12
+[4.922s] Invoking command in '/home/isabel/patrolling/build/patrolling_cpp': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/isabel/patrolling/build/patrolling_cpp
+[4.929s] -- Install configuration: ""
+[4.930s] -- Installing: /home/isabel/patrolling/install/patrolling_cpp/lib/patrolling_cpp/patrolling_node
+[4.931s] -- Set runtime path of "/home/isabel/patrolling/install/patrolling_cpp/lib/patrolling_cpp/patrolling_node" to ""
+[4.931s] -- Installing: /home/isabel/patrolling/install/patrolling_cpp/share/ament_index/resource_index/package_run_dependencies/patrolling_cpp
+[4.931s] -- Installing: /home/isabel/patrolling/install/patrolling_cpp/share/ament_index/resource_index/parent_prefix_path/patrolling_cpp
+[4.931s] -- Installing: /home/isabel/patrolling/install/patrolling_cpp/share/patrolling_cpp/environment/ament_prefix_path.sh
+[4.932s] -- Installing: /home/isabel/patrolling/install/patrolling_cpp/share/patrolling_cpp/environment/ament_prefix_path.dsv
+[4.932s] -- Installing: /home/isabel/patrolling/install/patrolling_cpp/share/patrolling_cpp/environment/path.sh
+[4.932s] -- Installing: /home/isabel/patrolling/install/patrolling_cpp/share/patrolling_cpp/environment/path.dsv
+[4.932s] -- Installing: /home/isabel/patrolling/install/patrolling_cpp/share/patrolling_cpp/local_setup.bash
+[4.932s] -- Installing: /home/isabel/patrolling/install/patrolling_cpp/share/patrolling_cpp/local_setup.sh
+[4.933s] -- Installing: /home/isabel/patrolling/install/patrolling_cpp/share/patrolling_cpp/local_setup.zsh
+[4.933s] -- Installing: /home/isabel/patrolling/install/patrolling_cpp/share/patrolling_cpp/local_setup.dsv
+[4.933s] -- Installing: /home/isabel/patrolling/install/patrolling_cpp/share/patrolling_cpp/package.dsv
+[4.933s] -- Installing: /home/isabel/patrolling/install/patrolling_cpp/share/ament_index/resource_index/packages/patrolling_cpp
+[4.933s] -- Installing: /home/isabel/patrolling/install/patrolling_cpp/share/patrolling_cpp/cmake/patrolling_cppConfig.cmake
+[4.933s] -- Installing: /home/isabel/patrolling/install/patrolling_cpp/share/patrolling_cpp/cmake/patrolling_cppConfig-version.cmake
+[4.934s] -- Installing: /home/isabel/patrolling/install/patrolling_cpp/share/patrolling_cpp/package.xml
+[4.936s] Invoked command in '/home/isabel/patrolling/build/patrolling_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/isabel/patrolling/build/patrolling_cpp
